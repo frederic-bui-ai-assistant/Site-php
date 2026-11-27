@@ -8,7 +8,8 @@ Petit site en PHP pur avec une base MySQL. Il contient :
 
 ## Prérequis
 
-- PHP 8.0+ avec l'extension `pdo_mysql`
+- PHP 8.0+
+- Installer php mysql avec cette commande `apt install php-mysql`
 - Un serveur MySQL ou MariaDB démarré
 
 Vérifier l'extension : `php -m | grep pdo_mysql`
